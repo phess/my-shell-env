@@ -1,0 +1,6 @@
+## bashrc.d/  Bashrc drop-dir
+#
+# Drop any files in here that you want .bashrc to source.
+#
+# NOTE 1: file *must* end in .sh to be sourced by bashrc
+# NOTE 2: files here will be interpreted in lexical order, and as .bashrc's LAST command.
